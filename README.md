@@ -8,7 +8,7 @@ Java RESTful API - Created in the DIO Course
 - **Spring Data JPA**: We will explore how this tool can simplify our data access layer, facilitating integration with SQL databases;
 - **OpenAPI (Swagger)**: Let's create effective and easy-to-understand API documentation using OpenAPI (Swagger), perfectly aligned with the high productivity that Spring Boot offers;
 - **Railway**: It facilitates the deployment and monitoring of our cloud solutions, in addition to offering several databases as a service and CI/CD pipelines.
-- 
+  
 ## Class Diagram
 
 ```mermaid
